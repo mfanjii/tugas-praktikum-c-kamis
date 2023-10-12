@@ -2,8 +2,8 @@
 
 int main()
 {
-	int nim = 23341;
-	char* nama = "Masalalu Dia";
+	int nim = 2341022;
+	char* nama = "Maulana Fanji Baihaqi";
 	char* jurusan = "Informatika";
 	
 	printf("nim : %i \n", nim);
