@@ -3,7 +3,7 @@
 int main()
 {
 	int nim = 23341;
-	char* nama = "Masalalu Dia";
+	char* nama = "Maulana Fanji Baihaqi ";
 	char* jurusan = "Informatika";
 	
 	printf("nim : %i \n", nim);

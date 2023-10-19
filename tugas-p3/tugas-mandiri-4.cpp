@@ -6,7 +6,7 @@ int main() {
 	printf("\n===================================");
 	printf("\n Masukkan bilangan = ");
 	scanf("%i", &bilangan);
-	if (bilangan &2==0)
+	if (bilangan % 2==0)
 	{
 		printf("Bilangan tersebut adalah bilangan Genap ");
 	}else
